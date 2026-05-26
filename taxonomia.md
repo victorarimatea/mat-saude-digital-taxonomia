@@ -1,6 +1,5 @@
 # Taxonomia Estruturada de Saúde Digital
-**Versão:** 1.0  
-**Data:** 2026-05-22  
+**Versão:** v1.0 — 2026-05-22 
 **Repositório:** https://github.com/victorarimatea/saude-digital-taxonomia  
 **Mantenedor:** victorarimatea
 
