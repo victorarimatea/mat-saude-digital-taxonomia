@@ -1,7 +1,7 @@
 # saude-digital-taxonomia
 
 **Tipo:** Matriz de Conhecimento (M)
-**Versão atual:** v1.0 — 2026-05-22
+**Versão atual:** v2.0 — 2026-05-22
 **Mantenedor:** victorarimatea
 **Visibilidade:** Público
 **Status:** Ativo
