@@ -42,3 +42,9 @@ após autorização explícita do mantenedor.
 | Versão | Data | Descrição |
 |---|---|---|
 | v1.0 | 2026-05-22 | Criação inicial — 8 partes, 24 capítulos, 107 subtópicos |
+
+---
+
+## Navegação rápida
+
+→ **[INDICE.md](./INDICE.md)** — mapa completo de todos os arquivos deste repositório
