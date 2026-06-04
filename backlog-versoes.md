@@ -1,3 +1,16 @@
+## v1.1 — 2026-06-04 (README.md)
+
+**Tipo de alteração:** Adição
+**Autorizado por:** Victor Leonardo Arimatea Queiroz — Diretor de Transformação Digital
+**Exposição de motivos:** Reescrita completa do README.md para incluir preâmbulo
+explicativo da distinção entre taxonomia (M02) e glossário (M01), com exemplo
+prático do termo "Interoperabilidade" ilustrando os dois usos, tabela comparativa
+e regra explícita de uso para agentes de IA. README anterior era apenas ficha
+técnica sem orientação de uso. Operação conduzida via S04 (OP-C), sessão de
+2026-06-04.
+
+---
+
 # Backlog de Versões — Taxonomia de Saúde Digital
 
 **Repositório:** https://github.com/victorarimatea/saude-digital-taxonomia  
