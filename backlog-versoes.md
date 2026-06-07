@@ -1,19 +1,6 @@
-## v1.1 — 2026-06-04 (README.md)
-
-**Tipo de alteração:** Adição
-**Autorizado por:** Victor Leonardo Arimatea Queiroz — Diretor de Transformação Digital
-**Exposição de motivos:** Reescrita completa do README.md para incluir preâmbulo
-explicativo da distinção entre taxonomia (M02) e glossário (M01), com exemplo
-prático do termo "Interoperabilidade" ilustrando os dois usos, tabela comparativa
-e regra explícita de uso para agentes de IA. README anterior era apenas ficha
-técnica sem orientação de uso. Operação conduzida via S04 (OP-C), sessão de
-2026-06-04.
-
----
-
 # Backlog de Versões — Taxonomia de Saúde Digital
 
-**Repositório:** https://github.com/victorarimatea/saude-digital-taxonomia  
+**Repositório:** https://github.com/victorarimatea/mat-saude-digital-taxonomia  
 **Arquivo relacionado:** `taxonomia.md`
 
 > Este documento registra todas as alterações propostas e aplicadas à taxonomia ao longo do tempo. Cada entrada inclui a versão, data, tipo de alteração, justificativa e referências que motivaram a mudança.
@@ -38,7 +25,20 @@ técnica sem orientação de uso. Operação conduzida via S04 (OP-C), sessão d
 
 ---
 
-### v1.0 — 2026-05-22
+### v1.1 — 2026-06-04 (README.md)
+
+**Tipo de alteração:** Adição
+**Autorizado por:** Victor Leonardo Arimatea Queiroz — Diretor de Transformação Digital
+**Exposição de motivos:** Reescrita completa do README.md para incluir preâmbulo
+explicativo da distinção entre taxonomia (M02) e glossário (M01), com exemplo
+prático do termo "Interoperabilidade" ilustrando os dois usos, tabela comparativa
+e regra explícita de uso para agentes de IA. README anterior era apenas ficha
+técnica sem orientação de uso. Operação conduzida via S04 (OP-C), sessão de
+2026-06-04.
+
+---
+
+## v1.0 — 2026-05-22
 **Tipo:** CRIAÇÃO INICIAL  
 **Descrição:** Primeira versão da taxonomia estruturada de saúde digital, construída a partir de pesquisa extensiva nas seguintes fontes:
 - Estratégia Global da OMS sobre Saúde Digital (2020–2027)
