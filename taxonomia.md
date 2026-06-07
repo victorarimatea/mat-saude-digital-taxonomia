@@ -1,6 +1,6 @@
 # Taxonomia Estruturada de Saúde Digital
 **Versão:** v1.0 — 2026-05-22 
-**Repositório:** https://github.com/victorarimatea/saude-digital-taxonomia  
+**Repositório:** https://github.com/victorarimatea/mat-saude-digital-taxonomia  
 **Mantenedor:** victorarimatea
 
 > Este documento é a fonte de verdade da taxonomia de saúde digital. Ele é referenciado por todas as skills do ecossistema. Alterações devem ser registradas no arquivo `backlog-versoes.md`.
