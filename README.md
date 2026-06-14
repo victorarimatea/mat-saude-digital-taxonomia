@@ -1,6 +1,6 @@
 # mat-saude-digital-taxonomia
 
-**Versão:** v1.0 — 2026-05-22
+**Versão:** v1.1 — 2026-06-04
 **Tipo:** M02 — Matriz
 **Mantenedor:** victorarimatea
 **Visibilidade:** Público
